@@ -22,7 +22,7 @@ Useful links:
 ## Development
 
 ```
-nom run dev
+npm run dev
 ```
 
 will start the Vendure server and [worker](https://www.vendure.io/docs/developer-guide/vendure-worker/) processes from
